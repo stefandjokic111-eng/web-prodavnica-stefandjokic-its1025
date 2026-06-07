@@ -1,7 +1,7 @@
 # Mini web prodavnica
 
 ## Naziv prodavnice
-S Shop
+2026 Fashion Store
 
 ## Tema prodavnice
 Prodavnica garderobe
