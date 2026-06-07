@@ -1,0 +1,6 @@
+Plan sajta:
+1. Pocetna strana
+2. O nama
+3. Proizvodi
+4. Kontakt
+5. Buduca korpa i kupovina kroz WooCommerce
